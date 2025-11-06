@@ -1,0 +1,5 @@
+{
+  "name": "Human HUD Analyzer",
+  "description": "An application that measures human balance across five dimensions (Body, Mind, Money, Relations, Power) and generates a personalized report with actionable insights using AI.",
+  "requestFramePermissions": []
+}
